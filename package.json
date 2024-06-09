@@ -8,7 +8,20 @@
     "vscode": "^1.90.0"
   },
   "categories": [
-    "Extension Packs"
+    "Extension Packs",
+    "Language Packs",
+    "Debuggers",
+    "Formatters",
+    "Programming Languages",
+    "Snippets"
+  ],
+  "keywords": [
+    "vscode",
+    "autohotkey",
+    "ahk",
+    "ahk2",
+    "ahk v2",
+    "ahk v1"
   ],
   "repository": {
     "type": "git",
