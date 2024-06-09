@@ -1,9 +1,13 @@
 # Changelog
 
+## 0.1.1
+
+- Update readme
+
 ## 0.1.0
 
 - Reorder extensions so both language supports are first
-- Update readme
+- ~~Update readme~~ (missed in last update)
 - Add icon and custom marketplace banner
 
 ## 0.0.1
