@@ -2,6 +2,7 @@
   "name": "autohotkey-extension-pack",
   "displayName": "AutoHotkey Extension Pack",
   "description": "Extensions for AHK v1 and v2 development",
+  "publisher": "mark-wiemer",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.90.0"
@@ -14,11 +15,15 @@
     "url": "https://github.com/mark-wiemer-org/autohotkey-extension-pack"
   },
   "scripts": {
-    "package": "vsce package"
+    "package": "vsce package",
+    "publish": "vsce publish"
   },
   "extensionPack": [
     "mark-wiemer.vscode-autohotkey-plus-plus",
     "zero-plusplus.vscode-autohotkey-debug",
     "thqby.vscode-autohotkey2-lsp"
-  ]
+  ],
+  "devDependencies": {
+    "@vscode/vsce": "^2.27.0"
+  }
 }
