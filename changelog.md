@@ -1,6 +1,6 @@
 # Changelog
 
-## (Unreleased)
+## 0.0.1
 
 - Initial release:
   - AutoHotkey Plus Plus (mark-wiemer.vscode-autohotkey-plus-plus)
