@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.0.0
+## 2.0.0 - 2024-08-01
 
 - Remove vscode-autohotkey-debug (zero-plusplus.vscode-autohotkey-debug) per [a request from zero-plusplus](https://github.com/mark-wiemer-org/ahkpp/discussions/21#discussioncomment-10216205)
 
