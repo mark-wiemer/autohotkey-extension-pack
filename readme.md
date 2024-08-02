@@ -6,7 +6,6 @@ A collection of VS Code extensions for AutoHotkey v1 and v2 development. This pa
 
 - AutoHotkey Plus Plus by Mark Wiemer: Provides v1 language support: syntax highlighting, formatting, auto-complete, and more
 - AutoHotkey v2 Language Support by thqby: Provides v2 language support ;)
-- vscode-autohotkey-debug by zero-plusplus: Provides an advanced debugger for v1 and v2
 
 ## Notes
 
