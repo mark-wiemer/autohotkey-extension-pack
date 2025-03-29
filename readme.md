@@ -1,5 +1,11 @@
 # AutoHotkey Extension Pack
 
+## Deprecated
+
+This extension pack is no longer maintained. AHK++ has all the functionality anyone should need :)
+
+## About
+
 A collection of VS Code extensions for AutoHotkey v1 and v2 development. This pack is designed to avoid conflicts with multiple extensions, please [report any conflicts](https://github.com/mark-wiemer-org/autohotkey-extension-pack/issues/new).
 
 ## Included extensions
